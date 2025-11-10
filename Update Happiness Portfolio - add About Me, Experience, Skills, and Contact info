@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happiness Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <img src="images/profile.jpg" alt="Happiness Profile Picture" class="profile-pic">
+        <h1>Happiness</h1>
+        <h2>Digital Creator & Frontend Developer</h2>
+    </header>
+
+    <!-- About Me -->
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I’m Happiness, a digital creator who loves building websites that are both beautiful and functional. 
+        I specialize in web design, development, and bringing ideas to life online.</p>
+    </section>
+
+    <!-- Experience -->
+    <section id="experience">
+        <h2>Experience</h2>
+        <div class="job">
+            <h3>Frontend Developer Intern</h3>
+            <p>Tech Solutions Inc.</p>
+            <p>Worked on designing and developing responsive web pages, improving UI/UX, and collaborating on front-end projects.</p>
+        </div>
+    </section>
+
+    <!-- Skills -->
+    <section id="skills">
+        <h2>Skills</h2>
+        <div class="skill">
+            <span>HTML/CSS</span>
+            <div class="skill-bar"><div class="skill-level" style="width: 90%;"></div></div>
+        </div>
+        <div class="skill">
+            <span>JavaScript</span>
+            <div class="skill-bar"><div class="skill-level" style="width: 80%;"></div></div>
+        </div>
+        <div class="skill">
+            <span>Web Design</span>
+            <div class="skill-bar"><div class="skill-level" style="width: 85%;"></div></div>
+        </div>
+    </section>
+
+    <!-- Portfolio / Projects -->
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <div class="projects">
+            <div class="project">
+                <img src="images/project1.jpg" alt="Project 1">
+                <h3>Project Title 1</h3>
+            </div>
+            <div class="project">
+                <img src="images/project2.jpg" alt="Project 2">
+                <h3>Project Title 2</h3>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: happiness@example.com</p>
+        <p>LinkedIn: <a href="#">linkedin.com/in/happiness</a></p>
+        <p>GitHub: <a href="#">github.com/happiness</a></p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2025 Happiness. Made with ❤️</p>
+    </footer>
+</body>
+</html>
+<!-- Contact -->
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: happiness@example.com</p>
+    <p>Phone: 07040662512</p>
+    <p>LinkedIn: <a href="#">linkedin.com/in/happiness</a></p>
+    <p>GitHub: <a href="#">github.com/happiness</a></p>
+</section>
